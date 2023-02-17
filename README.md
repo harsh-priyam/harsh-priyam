@@ -1,5 +1,6 @@
-# 👋 Hi there, I'm Harsh Priyam 😎
-![logo]()
+![Untitled ‑ Made with FlexClip (1)](https://user-images.githubusercontent.com/96889318/219767918-a9dcb9e3-bdf5-4019-8184-ade3baeeabce.gif)
+<br>
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 🔭 I’m currently working on projects on Computer Vision & NLP<br><br>🌱 I’m currently learning Data Science<br><br>👨‍💻 All of my projects are available at https://github.com/harsh-priyam<br><br>💬 Ask me about Machine Learning , Deep Learning<br><br>📫 How to reach me - harshpriyam.official@gmail.com<br><br>⚡ Fun fact - One of my main professional goals is to one day become the CEO of any Technology Company.
