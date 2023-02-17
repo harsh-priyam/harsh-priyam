@@ -1,5 +1,7 @@
-![Untitled ‑ Made with FlexClip (1)](https://user-images.githubusercontent.com/96889318/219767918-a9dcb9e3-bdf5-4019-8184-ade3baeeabce.gif)
-<br>
+![ezgif com-resize](https://user-images.githubusercontent.com/96889318/219773794-ea6cd9b7-cde6-4452-8841-9c099d83c3f9.gif)
+<h1 align="center">Hi 👋, I'm Harsh Priyam</h1>
+
+
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
