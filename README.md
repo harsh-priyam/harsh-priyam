@@ -3,7 +3,7 @@
 <h1 align="center">Welcome to my GitHub! ❤️</h1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-🔭 I’m currently working on projects on Computer Vision & NLP<br><br>🌱 I’m currently learning Data Science<br><br>👨‍💻 All of my projects are available at https://github.com/harsh-priyam<br><br>💬 Ask me about Machine Learning , Deep Learning<br><br>📫 How to reach me - harshpriyam.official@gmail.com<br><br>⚡ Fun fact - One of my main professional goals is to one day become the CEO of any Technology Company.
+🔭 I’m currently working on Machine learning + Deep Learning & Solving Real World Problems using Python<br><br>🌱 I’m currently learning Data Science<br><br>👨‍💻 All of my projects are available at https://github.com/harsh-priyam<br><br>💬 Ask me about Machine Learning , Deep Learning<br><br>📫 How to reach me - harshpriyam.official@gmail.com<br><br>⚡ Fun fact - One of my main professional goals is to one day become the CEO of any Technology Company.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/HarshPriyam#4629) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-priyam-a8201a249) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Harsh_Priyam_) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/harsh-priyam) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/harshpriyam29) 
