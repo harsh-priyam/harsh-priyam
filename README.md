@@ -28,7 +28,7 @@
 
 <br>
 
-![ezgif com-resize](https://twitter.com/i/status/1744847231893794942)
+![ezgif com-resize](https://raw.githubusercontent.com/harsh-priyam/Data/main/ezgif-3-09699cc69e.gif)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
